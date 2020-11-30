@@ -41,7 +41,7 @@ class App(tk.Tk):
 
     # ------------------------------------------
     def pick(self):
-        entries = ['joshua mercado', 'aljon valen', 'joshua mercado', 'richard dayrit', 'aeroll tiosen', 'ronnel garino']
+        entries = ['user 1', 'user 2', 'user 3', 'user 4', 'user 1', 'user 2']
 
         unique_entries = list(set(entries))
 
